@@ -32,7 +32,7 @@ This project is to create a proposal for a citi bike (bikesharing) business for 
 
 ### ![Check out time by Gender](https://user-images.githubusercontent.com/100484606/173178658-fdf24385-c2b0-4d2b-a656-722c861e6702.JPG)
 
-* In this chart, we can see the trip duration by gender. All genders usually use the bikes for around 5 minutes. After that, the trip durations start to drop down. Almost nobody uses the bikes for more thatn 45 minutes where it is shown in the chart that the line slop down significantly.
+* In this chart, we can see the trip duration by gender. All genders usually use the bikes for around 5 minutes. After that, the trip durations start to drop down. Almost nobody uses the bikes for more thatn 45 minutes where it is shown in the chart that the lines slop down significantly.
 
 ### ![Trips by Gender by weekday per hour](https://user-images.githubusercontent.com/100484606/173179291-b4b6c74c-3d02-4903-8fcb-a2ee20e16462.JPG)
 
