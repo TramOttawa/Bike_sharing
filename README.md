@@ -5,6 +5,8 @@ This project is to create a proposal for a citi bike (bikesharing) business for 
 
 [Link to Dashboard](https://public.tableau.com/app/profile/tram4856/viz/Tableau_Bike_Sharing/NYCBIKESHARING?publish=yes)
 
+[Link to Story](https://public.tableau.com/app/profile/tram4856/viz/Tableau_Bike_Sharing/NYCBikeStory?publish=yes)
+
 ## Results
 
 ### ![August Peak Hours](https://user-images.githubusercontent.com/100484606/173172883-661f57d0-f75a-445e-864c-23fd6ff65e40.JPG)
